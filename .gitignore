@@ -1,7 +1,0 @@
-venv/
-*.pyc
-__pycache__/
-# Ignore specific large files
-poem_generator_backend/model/model.safetensors
-.gitignore/venv/Lib/site-packages/torch/lib/dnnl.lib
-.gitignore/venv/Lib/site-packages/torch/lib/torch_cpu.dll
