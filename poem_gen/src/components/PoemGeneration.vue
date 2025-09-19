@@ -20,7 +20,7 @@
     methods: {
       async generatePoem() {
         try {
-          const response = await fetch('http://localhost:5000/generate', { // Update URL as necessary
+          const response = await fetch('http://localhost:5001/api/generate-poem', { // Update URL as necessary
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ prompt: this.prompt })
