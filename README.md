@@ -67,6 +67,10 @@ Ensure the frontend API endpoints match the backend URL (`http://localhost:5000`
 - Improve model accuracy with additional fine-tuning
 - Deploy the application online for public use
 
+## Testing & QA
+- Automated tests are implemented with [Cypress](https://www.cypress.io/).  
+- QA documentation (test plan, bug reports, manual test cases) is available in the `qa/` folder.  
+
 ## Contact
 For any questions or contributions, feel free to reach out:
 - **GitHub**: [KhadijahFaiz](https://github.com/KhadijahFaiz)
