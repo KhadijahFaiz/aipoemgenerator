@@ -1,10 +1,10 @@
-# AI Poem Generator
+# PoemGenie - AI Poem Generator
 
-Welcome to the AI Poem Generator project! This repository contains the frontend and backend components for an application that generates unique poems based on user input. The project uses a fine-tuned GPT-2 model and is built with Vue.js and Flask.
+Welcome to PoemGenie, an AI Poem Generator project! This repository contains the frontend and backend components for an application that generates unique poems based on user input. The project uses a fine-tuned GPT-2 model and is built with Vue.js and Flask.
 
 ## Project Overview
 
-The AI Poem Generator allows users to create poems in various styles and themes by leveraging the power of artificial intelligence. Users can select preferences, input themes, and generate poems directly from the web-based application.
+PoemGenie allows users to create poems in various styles and themes by leveraging the power of artificial intelligence. Users can select preferences, input themes, and generate poems directly from the web-based application.
 
 ## Repository Structure
 
